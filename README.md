@@ -36,7 +36,7 @@ A real-time web system allowing production maintenance teams to send Andon reque
 ### Production Maintenance Andon Viewer *(Confidential – Developed at ROHM)*
 A simplified WinForms application used to visualize Andon signals and requests using graphical representation.
 
-### Production Environment Real-Time Monitoring System ([Click to view](https://github.com/vincent-capistrano/Environment-Temperature-Monitoring-System))  
+### Production Environment Real-Time Monitoring System ([View project](https://github.com/vincent-capistrano/Environment-Temperature-Monitoring-System))  
 IoT-based solution using ESP32/M5Core2 for real-time environmental monitoring. Sensor data is transmitted to a VB.NET WinForms host via TCP/IP.
 
 ### Device IP Changer *(Confidential – Developed at ROHM)*
