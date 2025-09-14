@@ -64,6 +64,12 @@ I’m a **Full-Stack Developer** experienced in building **web, desktop, and rea
 ### 🔹 [Portfolio Website](https://vincent-portfolio-ten.vercel.app/)  
 Personal portfolio showcasing my work, projects, and experience. Built with **Next.js** and **TailwindCSS**, deployed on **Vercel**.  
 
+<p align="center">
+  <a href="https://vincent-portfolio-ten.vercel.app/">
+    <img src="https://vincent-portfolio-ten.vercel.app/site-preview.png" alt="Portfolio Preview"/>
+  </a>
+</p>
+
 ### 🔹 [Practice AI](https://lawpractice.ai/)  
 At Practice AI, I contributed as a **Full Stack Developer**, focusing on both the **frontend and backend** of the main portal.  
 
