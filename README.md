@@ -35,17 +35,36 @@ I’m a **Full-Stack Developer** experienced in building **web, desktop, and rea
 ### 🔹 [Portfolio Website](https://vincent-portfolio-ten.vercel.app/)  
 Personal portfolio showcasing my work, projects, and experience. Built with **Next.js** and **TailwindCSS**, deployed on **Vercel**.  
 
-### 🔹 Practice AI (Internal Applications)  
-Developed and maintained apps that streamline workflows and enhance operational efficiency.  
+### 🔹 [Practice AI](https://lawpractice.ai/)  
+At Practice AI, I contributed as a **Full Stack Developer**, focusing on both the **frontend and backend** of the main portal.  
 
-### 🔹 ROHM Web & Desktop Apps  
+-  Handled and debugged critical issues in the main system  
+-  Translated design mockups into functional, user-friendly interfaces  
+-  Helped push new features into production, improving workflows and efficiency  
+-  Collaborated across teams to ensure smooth integration and performance  
+
+### 🔹 [ROHM Electronics Phillippines Inc](https://micro.rohm.com/en/repi/)
 - ASP.NET web apps with **ECharts** visualizations  
 - Customized **WinForms** solutions  
 - SQL Server DB design and optimization  
 - Microcontroller integration with server-side monitoring  
 
 ### 🔹 Freelance WordPress Projects  
-Delivered custom WordPress solutions for clients, focusing on **performance, SEO, and responsive design**.  
+As a **WordPress Front-End Web Developer**, I built and customized websites for various clients, focusing on responsive design, performance, and SEO.  
+
+- 🌐 [Six Sigma Learning](https://sixsigmalearning.com)  
+- 🌐 [Project Management Videos](https://projectmanagementvideos.com)  
+- 🌐 [Mr. Supply Chain](https://mrsupplychain.com)  
+- 🌐 [Supply Chain Videos](https://supplychainvideos.com)  
+
+**Key Contributions:**  
+- Converted design mockups into fully functional, responsive websites  
+- Customized themes and layouts using **Elementor** and WordPress tools  
+- Optimized performance for faster load times and smooth navigation  
+- Implemented SEO best practices to boost visibility and rankings  
+- Ensured **cross-browser compatibility** and **mobile responsiveness**  
+- Collaborated with designers to accurately translate creative visions into web format  
+- Debugged and resolved front-end issues, ensuring top-notch user experiences 
 
 ---
 
