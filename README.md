@@ -67,16 +67,20 @@ Personal portfolio showcasing my work, projects, and experience. Built with **Ne
 ### 🔹 [Practice AI](https://lawpractice.ai/)  
 At Practice AI, I contributed as a **Full Stack Developer**, focusing on both the **frontend and backend** of the main portal.  
 
--  Handled and debugged critical issues in the main system  
--  Translated design mockups into functional, user-friendly interfaces  
--  Helped push new features into production, improving workflows and efficiency  
--  Collaborated across teams to ensure smooth integration and performance  
+- 🐛 Handled development tickets, implemented fixes, and wrote **unit tests** to ensure code quality
+- 🛠️ Handled and debugged critical issues in the main system  
+- 🎨 Translated design mockups into functional, user-friendly interfaces  
+- 🚀 Helped push new features into production, improving workflows and efficiency  
+- 🔧 Collaborated across teams to ensure smooth integration and performance  
 
-### 🔹 [ROHM Electronics Phillippines Inc](https://micro.rohm.com/en/repi/)
-- ASP.NET web apps with **ECharts** visualizations  
-- Customized **WinForms** solutions  
-- SQL Server DB design and optimization  
-- Microcontroller integration with server-side monitoring  
+  
+### 🔹 [ROHM Electronics Philippines Inc](https://micro.rohm.com/en/repi/)  
+- 💻 Built ASP.NET web apps with **ECharts** for interactive data visualizations  
+- 🖥️ Developed and customized **WinForms** solutions for business needs  
+- 🗄️ Designed and optimized **SQL Server** databases for performance  
+- 🔌 Integrated **microcontroller-based systems** with server-side monitoring  
+
+---
 
 ### 🔹 Freelance WordPress Projects  
 As a **WordPress Front-End Web Developer**, I built and customized websites for various clients, focusing on responsive design, performance, and SEO.  
@@ -87,13 +91,13 @@ As a **WordPress Front-End Web Developer**, I built and customized websites for 
 - 🌐 [Supply Chain Videos](https://supplychainvideos.com)  
 
 **Key Contributions:**  
-- Converted design mockups into fully functional, responsive websites  
-- Customized themes and layouts using **Elementor** and WordPress tools  
-- Optimized performance for faster load times and smooth navigation  
-- Implemented SEO best practices to boost visibility and rankings  
-- Ensured **cross-browser compatibility** and **mobile responsiveness**  
-- Collaborated with designers to accurately translate creative visions into web format  
-- Debugged and resolved front-end issues, ensuring top-notch user experiences 
+- 🎨 Converted design mockups into fully functional, responsive websites  
+- 🛠️ Customized themes and layouts using **Elementor** and WordPress tools  
+- ⚡ Optimized performance for faster load times and smooth navigation  
+- 🔍 Implemented **SEO best practices** to boost visibility and rankings  
+- 📱 Ensured **cross-browser compatibility** and **mobile responsiveness**  
+- 🤝 Collaborated with designers to accurately translate creative visions into web format  
+- 🐛 Debugged and resolved front-end issues, ensuring top-notch user experiences  
 
 ---
 
