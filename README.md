@@ -1,6 +1,8 @@
 # 👨‍💻 Vincent Q. Capistrano  
 
-**Full-Stack .NET Developer | Azure Certified | Building Scalable Web & Desktop Applications**
+<p align="center">
+  <strong>Full-Stack .NET Developer | Azure Certified | Building Scalable Web & Desktop Applications</strong>
+</p>
 
 <p align="center">
   <a href="https://vincent-portfolio-ten.vercel.app/">
@@ -13,6 +15,25 @@
     <img src="https://img.shields.io/badge/Email-Contact-green" alt="Email" />
   </a>
 </p>  
+
+---
+
+## 📈 GitHub Stats  
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=vincent-capistrano&show_icons=true&theme=tokyonight" height="180px"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=vincent-capistrano&theme=tokyonight" height="180px"/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vincent-capistrano&theme=tokyo-night" />
+</p>
 
 ---
 
@@ -83,25 +104,6 @@ As a **WordPress Front-End Web Developer**, I built and customized websites for 
 - ✅ Using MongoDB with Node.js  
 - ✅ Azure AI Essentials (Workloads & Machine Learning)  
 - ✅ Build REST APIs with FastAPI  
-
----
-
-## 📈 GitHub Stats  
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=vincent-capistrano&show_icons=true&theme=tokyonight" height="180px"/>
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=vincent-capistrano&theme=tokyonight" height="180px"/>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vincent-capistrano&theme=tokyo-night" />
-</p>
 
 ---
 
