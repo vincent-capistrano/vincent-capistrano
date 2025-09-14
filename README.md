@@ -61,12 +61,16 @@ Delivered custom WordPress solutions for clients, focusing on **performance, SEO
 
 ## 📈 GitHub Stats  
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=vincent-capistrano&show_icons=true&theme=tokyonight" height="180px"/>
-  <img align="right" src="https://streak-stats.demolab.com?user=vincent-capistrano&theme=tokyonight" height="180px"/>
-</p>
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=vincent-capistrano&show_icons=true&theme=tokyonight" height="180px"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=vincent-capistrano&theme=tokyonight" height="180px"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vincent-capistrano&theme=tokyo-night" />
