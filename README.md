@@ -70,6 +70,8 @@ Personal portfolio showcasing my work, projects, and experience. Built with **Ne
   </a>
 </p>
 
+---
+
 ### 🔹 [Practice AI](https://lawpractice.ai/)  
 At Practice AI, I contributed as a **Full Stack Developer**, focusing on both the **frontend and backend** of the main portal.  
 
