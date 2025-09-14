@@ -2,9 +2,17 @@
 
 **Full-Stack .NET Developer | Azure Certified | Building Scalable Web & Desktop Applications**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://vincent-portfolio-ten.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-lightgrey)](https://www.linkedin.com/in/vincent-capistrano-0884122b3)  
-[![Email](https://img.shields.io/badge/Email-Contact-green)](mailto:capistrano.vincent.eccbscs@gmail.com)  
+<p align="center">
+  <a href="https://vincent-portfolio-ten.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/vincent-capistrano-0884122b3">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-lightgrey" alt="LinkedIn" />
+  </a>
+  <a href="mailto:capistrano.vincent.eccbscs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-green" alt="Email" />
+  </a>
+</p>  
 
 ---
 
