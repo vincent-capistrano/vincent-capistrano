@@ -79,6 +79,7 @@ At Practice AI, I contributed as a **Full Stack Developer**, focusing on both th
 - 🚀 Helped push new features into production, improving workflows and efficiency  
 - 🔧 Collaborated across teams to ensure smooth integration and performance  
 
+---
   
 ### 🔹 [ROHM Electronics Philippines Inc](https://micro.rohm.com/en/repi/)  
 - 💻 Built ASP.NET web apps with **ECharts** for interactive data visualizations  
