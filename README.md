@@ -41,10 +41,10 @@
 
 I’m a **Full-Stack Developer** experienced in building **web, desktop, and real-time monitoring systems**. Skilled in **ASP.NET, C#, SQL Server, WordPress, and modern frontend frameworks**, I’m passionate about creating efficient, user-friendly solutions that enhance business processes.  
 
-- 🔹 Currently working as **Full Stack Developer at Practice AI**  
-- 🔹 Former **Software Engineer at ROHM Co., Ltd.**  
-- 🔹 Skilled in **API Development, Azure DevOps, Microcontrollers, and UI Engineering**  
-- 🔹 Certified in **Azure DevOps, AI Essentials, and REST API Development**  
+ 🔹 Currently working as **Full Stack Developer at Practice AI**  
+ 🔹 Former **Software Engineer at ROHM Co., Ltd.**  
+ 🔹 Skilled in **API Development, Azure DevOps, Microcontrollers, and UI Engineering**  
+ 🔹 Certified in **Azure DevOps, AI Essentials, and REST API Development**  
 
 ---
 
