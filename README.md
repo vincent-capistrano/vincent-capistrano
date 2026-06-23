@@ -1,20 +1,24 @@
 # 👨‍💻 Vincent Q. Capistrano  
 
 <p align="center">
-  <strong>Full-Stack .NET Developer | Azure Certified | Building Scalable Web & Desktop Applications</strong>
+  <strong>Full-Stack .NET Developer | ASP.NET Core, Blazor, SQL Server, Azure | API & AI Integrations</strong>
 </p>
 
 <p align="center">
   <a href="https://vincent-portfolio-ten.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+
   <a href="https://www.linkedin.com/in/vincent-capistrano-0884122b3">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-lightgrey" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:capistrano.vincent.eccbscs@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-green" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>  
+
+  <img src="https://komarev.com/ghpvc/?username=vincent-capistrano&style=for-the-badge&color=brightgreen" />
+</p>
 
 ---
 
