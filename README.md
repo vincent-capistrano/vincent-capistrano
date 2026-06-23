@@ -66,7 +66,7 @@ Personal portfolio showcasing my work, projects, and experience. Built with **Ne
 
 <p align="center">
   <a href="https://vincent-portfolio-ten.vercel.app/">
-    <img src="https://vincent-portfolio-ten.vercel.app/portfolio-preview.gif"
+    <img src="https://vincent-portfolio-ten.vercel.app/pweview.gif"
          alt="Portfolio Preview"
          width="900">
   </a>
