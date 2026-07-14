@@ -26,9 +26,6 @@
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=vincent-capistrano&show_icons=true&theme=tokyonight" height="180px"/>
-    </td>
      <td>
       <img src="https://streak-stats.demolab.com?user=vincent-capistrano&theme=tokyonight" height="180px"/>
     </td> 
