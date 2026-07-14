@@ -24,13 +24,9 @@
 
 ## 📈 GitHub Stats  
 
-<table>
-  <tr>
-     <td>
+<p align="center">
       <img src="https://streak-stats.demolab.com?user=vincent-capistrano&theme=tokyonight" height="180px"/>
-    </td> 
-  </tr>
-</table>
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vincent-capistrano&theme=tokyo-night" />
